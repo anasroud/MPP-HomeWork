@@ -1,0 +1,1 @@
+	//The visited flag is not relevant for determining whether two Employee objects are duplicates
