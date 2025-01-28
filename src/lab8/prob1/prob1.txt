@@ -1,0 +1,6 @@
+A.(i)
+Parameters: No parameters.
+Free variables: s, t.
+A.(ii)
+Parameters: s, t.
+Free variables: ignoreCase

@@ -1,0 +1,7 @@
+a). The compiler error occurs at line:
+        List<Number> nums = ints; // Generic Subtyping is not allowed to be covariant
+
+
+b). The compiler error occurs at line:
+            nums.add(3.14); // When the extends wildcard is used to define a parametrized type, the type
+                               cannot be used for adding new elements.
