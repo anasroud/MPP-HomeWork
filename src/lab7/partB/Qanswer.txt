@@ -1,0 +1,1 @@
+	// This  equals method (equals(Employee e)) is not the method used by Java's collections framework.
