@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfbec4c1-5a12-4ddc-bf61-77d6170ab888" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9Part1/prob1/dataaccess/DataAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab9Part1/prob1/dataaccess/DataAccess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9Part1/prob1/dataaccess/DataAccessFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab9Part1/prob1/dataaccess/DataAccessFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9Part1/prob1/dataaccess/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab9Part1/prob1/dataaccess/TestData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9Part1/prob1/ui/AllBooksWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9Part1/prob1/ui/AllMembersWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9Part1/prob1/ui/LibWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9Part1/prob1/ui/LoginWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9Part1/prob1/ui/Start.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9Part1/prob1/ui/library.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab9Part1/prob1/ui/library.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="dfbec4c1-5a12-4ddc-bf61-77d6170ab888" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
